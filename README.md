@@ -1,3 +1,3 @@
 # Wallpaper
-This is the collection of my wallpaper over all this years
-![customWallpaper1](https://github.com/suhasofficial/Wallpaper/blob/main/Unorg%20walls/myCustomWall1.jpg "myCustomWall1")
+This is the collection of my wallpaper over all these years
+![customWallpaper1](https://github.com/suhasofficial/Wallpaper/blob/main/Focus_Abstract/linux%201.png "FOCUS")
